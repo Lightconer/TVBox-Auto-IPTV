@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/UserA/Repo1/main/live.m3u
+https://example.com/iptv/list.txt
+https://gitcode.net/UserB/iptv/-/raw/master/result.txt
